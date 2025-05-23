@@ -2,22 +2,22 @@
 const ModsSection = () => {
   const upcomingMods = [
     {
-      name: "Creative Builder Pro",
-      description: "Advanced building tools for architects",
+      name: "AI NPCS Pro",
+      description: "Next-gen AI-powered NPCs for immersive game experiences",
       status: "Coming Soon",
       color: "from-neon-purple to-neon-pink"
     },
     {
-      name: "Survival Enhanced",
-      description: "Hardcore survival mechanics overhaul",
+      name: "Solo Leveling: Ascension",
+      description: "Level up, awaken new powers, and conquer dungeons in this RPG-style progression mod",
       status: "In Development",
       color: "from-neon-blue to-neon-green"
     },
     {
-      name: "Pixel Realms",
-      description: "New dimensions with pixel art themes",
+      name: "Netherbound: Eclipse",
+      description: "Harness forbidden nether magic, transform into shadow forms, and command infernal creatures",
       status: "Coming Soon",
-      color: "from-neon-pink to-neon-yellow"
+      color: "from-neon-red to-neon-black"
     }
   ];
 

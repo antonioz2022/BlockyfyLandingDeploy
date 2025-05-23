@@ -33,8 +33,6 @@ const Footer = () => {
               <span>Minecraft Java Edition</span>
               <span>•</span>
               <span>Community Driven</span>
-              <span>•</span>
-              <span>Open Source Spirit</span>
             </div>
           </div>
         </div>
